@@ -1,0 +1,14 @@
+1
+- An explanation of the vulnerabilities you discovered and
+- how you discovered them.
+
+This is where you document your analysis of the problem (e.g., code analysis, system exploration, etc) 
+The tests you've done to confirm your hypotheses about the cause of vulnerabilities.
+
+2
+-  Your attack strategy. Having discovered the vulnerabilities, how do you plan to obtain the flag?
+
+Describe the overall strategy,
+and the reasoning behind it, e.g., why do you think that particular strategy would work? 
+Then map it to the concrete steps
+you need to do and how they translate into your exploit code. 
