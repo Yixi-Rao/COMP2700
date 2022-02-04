@@ -1,0 +1,114 @@
+{- The Project Gutenberg eBook of The Adventures of Sherlock Holmes,          -}
+{- by Arthur Conan Doyle                                                      -}
+{------------------------------------------------------------------------------}
+{- This eBook is for the use of anyone anywhere in the United States and      -}
+{- most other parts of the world at no cost and with almost no restrictions   -}
+{- whatsoever. You may copy it, give it away or re-use it under the terms     -}
+{- of the Project Gutenberg License included with this eBook or online at     -}
+{- www.gutenberg.org. If you are not located in the United States, you        -}
+{- will have to check the laws of the country where you are located before    -}
+{- using this eBook.                                                          -}
+{-                                                                            -}
+{- Title: The Adventures of Sherlock Holmes                                   -}
+{- Author: Arthur Conan Doyle                                                 -}
+{- Release Date: November 29, 2002 [eBook #1661]                              -}
+{- [Most recently updated: May 20, 2019]                                      -}
+{- Language: English                                                          -}
+{- Produced by: an anonymous Project Gutenberg volunteer and Jose Menendez    -}
+{------------------------------------------------------------------------------}
+{- The following is a (random and modified) excerpt from the book             -}
+{------------------------------------------------------------------------------}
+"it means that it is all over," holmes answered. "and perhaps,
+after all, it is for the best. take your pistol, and we will
+enter dr. roylott's room."
+with a grave face he lit the lamp and led the way down the
+corridor. twice he struck at the chamber door without any reply
+from within. then he turned the handle and entered, i at his
+heels, with the cocked pistol in my hand.
+it was a singular sight which met our eyes. on the table stood a
+dark-lantern with the shutter half open, throwing a brilliant
+beam of light upon the iron safe, the door of which was ajar.
+beside this table, on the wooden chair, sat dr. grimesby roylott
+clad in a long grey dressing-gown, his bare ankles protruding
+beneath, and his feet thrust into red heelless turkish slippers.
+across his lap lay the short stock with the long lash which we
+had noticed during the day. his chin was cocked upward and his
+eyes were fixed in a dreadful, rigid stare at the corner of the
+ceiling. round his brow he had a peculiar yellow band, with
+brownish speckles, which seemed to be bound tightly round his
+head. as we entered he made neither sound nor motion.
+"the band! the speckled band!" whispered holmes.
+i took a step forward. in an instant his strange headgear began
+to move, and there reared itself from among his hair the squat
+diamond-shaped head and puffed neck of a loathsome serpent.
+"it is a swamp adder!" cried holmes; "the deadliest snake in
+india. he has died within ten seconds of being bitten. violence
+does, in truth, recoil upon the violent, and the schemer falls
+into the pit which he digs for another. let us thrust this
+creature back into its den, and we can then remove miss stoner to
+some place of shelter and let the county police know what has
+happened."
+as he spoke he drew the dog-whip swiftly from the dead man's lap,
+and throwing the noose round the reptile's neck he drew it from
+its horrid perch and, carrying it at arm's length, threw it into
+the iron safe, which he closed upon it.
+such are the true facts of the death of dr. grimesby roylott, of
+stoke moran. it is not necessary that i should prolong a
+narrative which has already run to too great a length by telling
+how we broke the sad news to the terrified girl, how we conveyed
+her by the morning train to the care of her good aunt at harrow,
+of how the slow process of official inquiry came to the
+conclusion that the doctor met his fate while indiscreetly
+playing with a dangerous pet. the little which i had yet to learn
+of the case was told me by sherlock holmes as we travelled back
+next day.
+"i had," said he, "come to an entirely erroneous conclusion which
+shows, my dear watson, how dangerous it always is to reason from
+insufficient data. the presence of the gipsies, and the use of
+the word 'band,' which was used by the poor girl, no doubt, to
+explain the appearance which she had caught a hurried glimpse of
+by the light of her match, were sufficient to put me upon an
+entirely wrong scent. i can only claim the merit that i instantly
+reconsidered my position when, however, it became clear to me
+that whatever danger threatened an occupant of the room could not
+come either from the window or the door. my attention was
+speedily drawn, as i have already remarked to you, to this
+ventilator, and to the bell-rope which hung down to the bed. the
+discovery that this was a dummy, and that the bed was clamped to
+the floor, instantly gave rise to the suspicion that the rope was
+there as a bridge for something passing through the hole and
+coming to the bed. the idea of a snake instantly occurred to me,
+and when i coupled it with my knowledge that the doctor was
+furnished with a supply of creatures from india, i felt that i
+was probably on the right track. the idea of using a form of
+poison which could not possibly be discovered by any chemical
+test was just such a one as would occur to a clever and ruthless
+man who had had an eastern training. the rapidity with which such
+a poison would take effect would also, from his point of view, be
+an advantage. it would be a sharp-eyed coroner, indeed, who could
+distinguish the two little dark punctures which would show where
+the poison fangs had done their work. then i thought of the
+whistle. of course he must recall the snake before the morning
+light revealed it to the victim. he had trained it, probably by
+the use of the milk which we saw, to return to him when summoned.
+he would put it through this ventilator at the hour that he
+thought best, with the certainty that it would crawl down the
+rope and land on the bed. it might or might not bite the
+occupant, perhaps she might escape every night for a week, but
+sooner or later she must fall a victim.
+"i had come to these conclusions before ever i had entered his
+room. an inspection of his chair showed me that he had been in
+the habit of standing on it, which of course would be necessary
+in order that he should reach the ventilator. the sight of the
+safe, the saucer of milk, and the loop of whipcord were enough to
+finally dispel any doubts which may have remained. the metallic
+clang heard by miss stoner was obviously caused by her stepfather
+hastily closing the door of his safe upon its terrible occupant.
+having once made up my mind, you know the steps which i took in
+order to put the matter to the proof. i heard the creature hiss
+as i have no doubt that you did also, and i instantly lit the
+light and attacked it."
+"with the result of driving it through the ventilator."
+"and also with the result of causing it to turn upon its master
+at the other side. some of the blows of my cane came home and
+roused its snakish temper, so that it flew upon the first person
